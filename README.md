@@ -1,4 +1,4 @@
-Sort prototype with pattern matching on a tree.
+Prototype of pattern matching on trees.
 
 Interesting, but the usefulness is limited. There easier to reason about methods
 of doing the same thing, perhaps even with better performance characteristics.
